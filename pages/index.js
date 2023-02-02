@@ -10,7 +10,7 @@ export default function Home() {
       }}
     >
       <Head>
-        <title>Just for testing ✌️</title>
+        <title>Just for testing hehe ✌️</title>
       </Head>
       <h1>Test show PDF</h1>
       <p>using embed</p>
